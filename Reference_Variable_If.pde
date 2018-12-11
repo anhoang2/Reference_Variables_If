@@ -1,4 +1,3 @@
-// add your Reference_Variable_If code here
 
 //integer variables
 int X= 50;
@@ -27,5 +26,4 @@ void draw() {
   {
     bounce=bounce*(-1);
   }
-
- 
+}
